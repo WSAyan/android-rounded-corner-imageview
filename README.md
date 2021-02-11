@@ -28,7 +28,7 @@ dependencies {
 	}
 ```
 
-Step 3. Set `cornerRadius` if you want otherwise it just acts as normal ImageView.
+Step 3. Set `cornerRadius` if you want otherwise it just acts like normal `ImageView`.
 
 ```xml
 <com.wsayan.roundedcornerimageview.RoundedCornerImageView
