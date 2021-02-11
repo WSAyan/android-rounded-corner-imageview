@@ -1,0 +1,3 @@
+include ':roundedcornerimageview'
+include ':app'
+rootProject.name = "android-rounded-corner-imageview"
